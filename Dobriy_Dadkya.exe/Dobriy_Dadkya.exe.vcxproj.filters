@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Media Include="..\..\..\..\Desktop\beat.wav">
+    <Media Include="beat.wav">
       <Filter>Файлы ресурсов</Filter>
     </Media>
   </ItemGroup>
