@@ -23,6 +23,13 @@
     <Media Include="beat.wav">
       <Filter>Файлы ресурсов</Filter>
     </Media>
+    <Media Include="..\..\..\..\Desktop\beat.wav">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="intro.wmv">
+      <Filter>Файлы ресурсов</Filter>
+    </Media>
+    <Media Include="intro.mp4" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">

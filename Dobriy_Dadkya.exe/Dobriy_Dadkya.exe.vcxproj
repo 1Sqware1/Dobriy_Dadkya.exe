@@ -131,7 +131,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Media Include="..\..\..\..\Desktop\beat.wav" />
     <Media Include="beat.wav" />
+    <Media Include="intro.mp4" />
+    <Media Include="intro.wmv" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
