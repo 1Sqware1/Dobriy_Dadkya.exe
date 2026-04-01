@@ -145,6 +145,9 @@
   <ItemGroup>
     <Image Include="Wallpaper.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\x64\Release\spammer.exe" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
